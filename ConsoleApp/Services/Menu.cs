@@ -14,7 +14,7 @@ namespace ConsoleApp.Services
     {
         private List<Contact> contacts = new List<Contact>();
         private FileManager file = new FileManager();
-        // asdasd
+        
         public string FilePath { get; set; } = null!;
 
         public void OptionsMenu()
